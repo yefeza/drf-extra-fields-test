@@ -2,7 +2,6 @@ DRF-EXTRA-FIELDS
 ================
 
 Extra Fields for Django Rest Framework
-HOLA!!
 
 [![Build Status](https://github.com/Hipo/drf-extra-fields/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/Hipo/drf-extra-fields/actions)
 [![codecov](https://codecov.io/gh/Hipo/drf-extra-fields/branch/master/graph/badge.svg)](https://codecov.io/gh/Hipo/drf-extra-fields)
